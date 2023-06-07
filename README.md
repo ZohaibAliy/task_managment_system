@@ -10,13 +10,26 @@ The Task Management System users can be only created by admin users. The admin u
 
 Features:
 Login Page
+![login](https://github.com/ZohaibAliy/task_managment_system/assets/117987272/3e62791d-cd90-481a-9e3e-aeddb9df8317)
 Home Page
+For Admin
+![image](https://github.com/ZohaibAliy/task_managment_system/assets/117987272/16e98755-e1cb-4d87-bd01-43aac1f4086a)
+For User
+![image](https://github.com/ZohaibAliy/task_managment_system/assets/117987272/b2f80114-f371-4207-a099-9fbc3164501d)
+
 Project (CRUD Features)
+![image](https://github.com/ZohaibAliy/task_managment_system/assets/117987272/9caef0a1-5b8a-47f4-a6b7-005de45a18f7)
+
 Task List Page
+![image](https://github.com/ZohaibAliy/task_managment_system/assets/117987272/6053101e-e369-4053-9c67-92826e7a5919)
+
 Progress Form
+![image](https://github.com/ZohaibAliy/task_managment_system/assets/117987272/e9dbf1e9-59b2-42a0-8a86-3eaa1df6ca9c)
+
 Report Generation
+![image](https://github.com/ZohaibAliy/task_managment_system/assets/117987272/ca303805-ef84-4f06-8dc2-0e3106756679)
+
 User (CRUD Features)
-etc.
-Admin Access
-Email: admin@admin.com
-Password: admin123
+![image](https://github.com/ZohaibAliy/task_managment_system/assets/117987272/e5c223df-40ea-4804-a93f-c3da62711d3d)
+
+
